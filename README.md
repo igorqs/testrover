@@ -142,13 +142,13 @@ npm run tests:integration
 
 ## src
 
-- **CollisionError.js: Represents a collision error, used when two rovers collide.**
-- **index.js: The unit called when executing the project; it retrieves parameters and passes them to the main unit.**
-- **main.js: The main unit of the project; responsible for reading input, simulating rovers' movements, and printing the output.**
-- **OutOfBoundsError.js: Represents an out-of-bounds error, used when a rover goes out of the plateau.**
-- **plateau.js: Represents the plateau.**
-- **rover.js: Represents the rover.**
-- **utils.js: A unit containing useful methods to be used throughout the project.**
+- **CollisionError.js**: Represents a collision error, used when two rovers collide.
+- **index.js**: The unit called when executing the project; it retrieves parameters and passes them to the main unit.
+- **main.js**: The main unit of the project; responsible for reading input, simulating rovers' movements, and printing the output.
+- **OutOfBoundsError.js**: Represents an out-of-bounds error, used when a rover goes out of the plateau.
+- **plateau.js**: Represents the plateau.
+- **rover.js**: Represents the rover.
+- **utils.js**: A unit containing useful methods to be used throughout the project.
 
 ## tests
 
