@@ -98,12 +98,12 @@ node ./src/index.js <file_name>
 
 ## Running the unit tests
 ```
-npm run tests:unit
+npm run test:unit
 ```
 
 ## Running the integration tests
 ```
-npm run tests:integration
+npm run test:integration
 ```
 
 # Code Structure
