@@ -1,0 +1,6 @@
+t 5
+1 2 N
+LMLMLMLMM
+5 3 E
+MMMMMMMMMM
+

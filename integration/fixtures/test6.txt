@@ -1,0 +1,8 @@
+5 5
+1 2 N
+MLLM
+3 3 E
+LRLRLRRLRL
+5 5 W
+
+
